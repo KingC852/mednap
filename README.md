@@ -14,6 +14,7 @@ This project is a comprehensive solution for processing and analyzing **ECG (Ele
 ├── dataframeFormatting.ipynb # Jupyter notebook for formatting and preprocessing DataFrames.
 ├── txt2csv.ipynb             # Converts text-based sleep stage files into CSV format.
 ├── edf2csv.ipynb             # Converts EDF files into CSV format for easier data handling.
+├── datamodeling.ipynb             # Jupyter notebook for Random Forest model.
 └── README.md                 # Project documentation.
 ```
 
